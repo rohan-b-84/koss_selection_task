@@ -1,1 +1,4 @@
-# koss_selection_task
+# Kharagpur Open Source Society
+## Selection Task
+
+### TOPIC: New Git Concepts
